@@ -29,10 +29,6 @@ venv/
 env/
 ENV/
 
-# ==================== Jupyter ====================
-.ipynb_checkpoints
-*.ipynb
-
 # ==================== ML/Data Science ====================
 # Модели и чекпоинты - ВАЖНО: папки целиком!
 pretrain_model/
